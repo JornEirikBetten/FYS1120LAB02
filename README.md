@@ -1,0 +1,2 @@
+# FYS1120LAB02
+Kode brukt i LAB02
